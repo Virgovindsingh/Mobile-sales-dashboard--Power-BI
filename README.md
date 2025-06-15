@@ -6,8 +6,8 @@ This Power BI dashboard provides a detailed analysis of smartphone sales data, t
 
 ---
  📊 Dashboard Preview
+![Dashboard Screenshot](Screenshot%202025-06-14%20171946.png)
 
-![Dashboard Screenshot](Screenshot 2025-06-14 171946.jpg)
 📌 Key Features
 
 **KPIs at a Glance**
