@@ -5,7 +5,9 @@ Smartphone Sales Dashboard built in Power BI showcasing key KPIs like total sale
 This Power BI dashboard provides a detailed analysis of smartphone sales data, tracking key metrics across cities, brands, and months. It allows users to interactively explore KPIs using filters like brand, mobile model, payment method, and day of the week.
 
 ---
+ 📊 Dashboard Preview
 
+![Dashboard Screenshot](Screenshot 2025-06-14 171946.jpg
 📌 Key Features
 
 **KPIs at a Glance**
